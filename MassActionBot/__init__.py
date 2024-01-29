@@ -17,7 +17,7 @@ START_PIC = Config.START_PIC
 MONGO_DB = Config.MONGO_DB_URL
 SUDOES.append(OWNER_ID)
 if not START_PIC:
-    START_PIC = "https://graph.org/file/c1c19fee2ac7b458087f7.jpg"
+    START_PIC = "https://telegra.ph/file/ff11afaef886536ae3d1d.jpg"
 #rich
 LOG = Console()
 
