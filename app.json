@@ -7,7 +7,7 @@
         "MassActionBot",
         "BanallBot"
     ],
-    "repository": "https://github.com/SupremeStark/MassActionBot",
+    "repository": "https://github.com/Badnam143/Superbannbot",
     "env": {        
         "API_ID": {
             "description": "my.telegram.org",
